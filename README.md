@@ -1,4 +1,7 @@
 # calcu
+![Android Emulator - Pixel_8_API_30_5554 10_4_2024 7_18_41 PM](https://github.com/user-attachments/assets/3835a616-4853-4808-b808-6f3fd5c45737)
+
+
 
 A new Flutter project.
 
