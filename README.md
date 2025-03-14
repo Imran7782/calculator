@@ -19,7 +19,7 @@ The iOS Calculator is a Flutter-based application that replicates the look and f
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/ios-calculator.git
+   git clone https://github.com/imran7782/ios-calculator.git
    cd ios-calculator
    ```
 2. Install dependencies:
